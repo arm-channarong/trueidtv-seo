@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Should set up specific directories that we do not want robot to crawl
+
+Sitemap: https://trueidtiv.trueid.net/sitemap.xml
