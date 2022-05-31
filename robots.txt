@@ -1,6 +1,7 @@
+# Declare all user agents
 User-agent: *
-Allow: /
 
 # Should set up specific directories that we do not want robot to crawl
+Disallow: /cdn-cgi
 
-Sitemap: https://trueidtiv.trueid.net/sitemap.xml
+Sitemap: https://trueidtv.trueid.net/sitemap.xml
