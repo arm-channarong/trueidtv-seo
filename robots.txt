@@ -2,6 +2,6 @@
 User-agent: *
 
 # Should set up specific directories that we do not want robot to crawl
-Disallow: /cdn-cgi
+Disallow: /cdn-cgi/
 
 Sitemap: https://trueidtv.trueid.net/sitemap.xml
