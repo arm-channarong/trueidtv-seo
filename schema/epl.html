@@ -1,17 +1,105 @@
 <!-- มาร์กอัป JSON-LD ที่สร้างขึ้นโดยโปรแกรมช่วยมาร์กอัป Structured Data ของ Google -->
 <script type="application/ld+json">
+// {
+//   "@context" : "http://schema.org",
+//   "@type" : "Product",
+//   "name" : "Watch Premier League on TrueID TV box",
+//   "image" : "https://trueidtv.trueid.net/images/spec/trueid-tvbox-latest-version-01@960.png",
+//   "description" : "Cheer for Liverpool, Chelsea, Man Utd. or your favorite team through season 2021/22. Don't miss a single match, choose our 1-day, 7-day, or whole season package.",
+//   "url" : "https://trueidtv.trueid.net/premier-league",
+//   "keywords" : "Premier League EPL True Premier Football football English Premier League watch football live football",
+//   "brand" : {
+//     "@type" : "Brand",
+//     "name" : "TrueID",
+//     "logo" : "https://trueidtv.trueid.net/images/icons/trueid-tv-logo.svg"
+//   }
+// }
+
 {
-  "@context" : "http://schema.org",
-  "@type" : "Product",
-  "name" : "Watch Premier League on TrueID TV box",
-  "image" : "https://trueidtv.trueid.net/images/spec/trueid-tvbox-latest-version-01@960.png",
-  "description" : "Cheer for Liverpool, Chelsea, Man Utd. or your favorite team through season 2021/22. Don't miss a single match, choose our 1-day, 7-day, or whole season package.",
-  "url" : "https://trueidtv.trueid.net/premier-league",
-  "keywords" : "Premier League EPL True Premier Football football English Premier League watch football live football",
-  "brand" : {
-    "@type" : "Brand",
-    "name" : "TrueID",
-    "logo" : "https://trueidtv.trueid.net/images/icons/trueid-tv-logo.svg"
-  }
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement":[
+    {
+      "@type": "ListItem",
+      "position": "1",
+      "item": {
+        "@type": "Product",
+        "url": "https://myaccount.trueid.net/checkout?productCode=EPL&offer_code=EPL2021_NPN_OC_1D_ALA",
+        "name": "EPL One Day Package",
+        "image": [
+          "https://example.com/photos/1x1/photo.jpg",
+          "https://example.com/photos/4x3/photo.jpg",
+          "https://example.com/photos/16x9/photo.jpg"
+        ],
+        "description": "the description",
+        "offers":{
+          "@type":"Offer",
+          "price":"149",
+          "priceCurrency":"THB"
+        }
+    }
+  },
+  {
+      "@type": "ListItem",
+      "position": "2",
+      "item": {
+        "@type": "Product",
+        "url": "https://myaccount.trueid.net/checkout?productCode=EPL&offer_code=EPLNP_NPN_00_7D_ALA",
+        "name": "EPL Seven Day Package",
+        "image": [
+          "https://example.com/photos/1x1/photo.jpg",
+          "https://example.com/photos/4x3/photo.jpg",
+          "https://example.com/photos/16x9/photo.jpg"
+        ],
+        "description": "the description",
+        "offers":{
+          "@type":"Offer",
+          "price":"179",
+          "priceCurrency":"THB"
+        }
+      }
+    },
+    {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+          "@type": "Product",
+          "url": "https://myaccount.trueid.net/checkout?productCode=EPL&offer_code=EPL2021_NPN_RC_EVG_ALA",
+          "name": "EPL Monthly Package",
+          "image": [
+            "https://example.com/photos/1x1/photo.jpg",
+            "https://example.com/photos/4x3/photo.jpg",
+            "https://example.com/photos/16x9/photo.jpg"
+          ],
+          "description": "the description",
+          "offers":{
+            "@type":"Offer",
+            "price":"299",
+            "priceCurrency":"THB"
+          }
+        }
+      },
+      {
+          "@type": "ListItem",
+          "position": "4",
+          "item": {
+            "@type": "Product",
+            "url": "https://store.truecorp.co.th/online-store/item/L91759989?matcode=3000093881&selected_campaign=device_only",
+            "name": "All Season Package",
+            "image": [
+              "https://example.com/photos/1x1/photo.jpg",
+              "https://example.com/photos/4x3/photo.jpg",
+              "https://example.com/photos/16x9/photo.jpg"
+            ],
+            "description": "the description",
+            "offers":{
+              "@type":"Offer",
+              "price":"3490",
+              "priceCurrency":"THB"
+            }
+          }
+        }
+]
 }
+
 </script>
