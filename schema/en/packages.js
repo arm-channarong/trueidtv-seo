@@ -31,7 +31,7 @@
                 "@type": "Offer",
                 "priceCurrency": "THB",
                 "price": "399",
-                "url": "https://trueidtv.trueid.net/en/packages",
+                "url": "https://trueidtv.trueid.net/en/packages"
             }
         },
         {
