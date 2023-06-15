@@ -7,8 +7,8 @@
                 {
                     "@type": "ListItem",
                     "position": 1,
-                    "name": "Home",
-                    "item": "https://trueidtv.trueid.net/en"
+                    "name": "หน้าหลัก",
+                    "item": "https://trueidtv.trueid.net"
                 },
                 {
                   "@type": "ListItem",

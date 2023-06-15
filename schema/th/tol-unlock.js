@@ -7,14 +7,14 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "Home",
-          "item": "https://trueidtv.trueid.net/en"
+          "name": "หน้าหลัก",
+          "item": "https://trueidtv.trueid.net"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "TrueUnlock TV",
-          "item": "https://trueidtv.trueid.net/en/unlocktv/new-trueonline"
+          "item": "https://trueidtv.trueid.net/unlocktv/new-trueonline"
         }
       ]
     },

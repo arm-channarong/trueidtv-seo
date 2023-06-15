@@ -36,7 +36,7 @@
                 {
                     "@type": "ListItem",
                     "position": 1,
-                    "name": "เรื่องราวของเรา",
+                    "name": "หน้าหลัก",
                     "item": "https://trueidtv.trueid.net"
                 },
                 {
