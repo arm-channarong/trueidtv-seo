@@ -33,8 +33,7 @@ You will then be prompted to connect your TrueID account which can be done in on
                         "name": "Which internet network can I use TrueID TV with?",
                         "acceptedAnswer": {
                                 "@type": "Answer",
-                                "text": "The TrueID TV box is supported by all internet networks.
-"
+                                "text": "The TrueID TV box is supported by all internet networks."
                         }
                 }
         ]
