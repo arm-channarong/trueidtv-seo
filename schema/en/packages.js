@@ -103,9 +103,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "2490",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -121,9 +119,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "299",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -139,9 +135,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "59",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -239,9 +233,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "399",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -257,9 +249,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "399",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -275,9 +265,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "449",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -293,9 +281,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "499",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -312,9 +298,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "629",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
@@ -331,9 +315,7 @@
                         "@type": "Offer",
                         "priceCurrency": "THB",
                         "price": "999",
-                        "url": "https://trueidtv.trueid.net/en/packages",
-                        "availability": "https://schema.org/InStock",
-                        "itemCondition": "https://schema.org/NewCondition"
+                        "url": "https://trueidtv.trueid.net/en/packages"
                 }
               },
               {
