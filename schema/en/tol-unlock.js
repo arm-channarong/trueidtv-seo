@@ -106,7 +106,7 @@
           "name": "Is there any cost after TrueUnlock TV package ends?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Is there any cost after TrueUnlock TV package ends?"
+            "text": "No cost at all. This is privilege for TrueOnline customers."
           }
         }
       ]
