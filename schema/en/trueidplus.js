@@ -84,9 +84,7 @@
                 "@type": "Offer",
                 "priceCurrency": "THB",
                 "price": "59",
-                "url": "https://myaccount.trueid.net/th/checkout?productCode=TIDPLUS&utm_source=trueidtv.trueid.net&utm_medium=page-trueidplus&utm_content=trueidplus-package-subscribe-btn&source_caller=ui&shortlink=g3zjo1ny&c=trueidtv&pid=trueid_web&af_xp=custom",
-                "availability": "https://schema.org/InStock",
-                "itemCondition": "https://schema.org/NewCondition",
+                "url": "https://myaccount.trueid.net/th/checkout?productCode=TIDPLUS",
                 "priceValidUntil": "2023-06-30"
             }
         },
@@ -103,9 +101,7 @@
                 "@type": "Offer",
                 "priceCurrency": "THB",
                 "price": "599",
-                "url": "https://myaccount.trueid.net/th/checkout?productCode=TIDPLUS&utm_source=trueidtv.trueid.net&utm_medium=page-trueidplus&utm_content=trueidplus-package-subscribe-btn&source_caller=ui&shortlink=g3zjo1ny&c=trueidtv&pid=trueid_web&af_xp=custom&offer_code=TIDPLUS_BPN_OC_1Y_REG",
-                "availability": "https://schema.org/InStock",
-                "itemCondition": "https://schema.org/NewCondition",
+                "url": "https://myaccount.trueid.net/th/checkout?productCode=TIDPLUS",
                 "priceValidUntil": "2023-06-30"
             }
         }

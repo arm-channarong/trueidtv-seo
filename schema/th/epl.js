@@ -32,8 +32,6 @@
             "priceCurrency": "THB",
             "price": "2900",
             "url": "https://ttid.co/gDfF/k88mzzoa",
-            "availability": "https://schema.org/InStock",
-            "itemCondition": "https://schema.org/NewCondition",
             "priceValidUntil": "2023-08-09"
         }
     },
